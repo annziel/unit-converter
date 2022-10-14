@@ -42,7 +42,7 @@ function convertAllAndRender()  {
     metersToFeet.textContent = convert(number, "meters", "feet", feetMultiplier)
     litersToGallons.textContent = convert(number, "liters", "gallons", gallonsMultiplier)
     kilosToPounds.textContent = convert(number, "kilos", "pounds", poundsMultiplier)
-    number = ""
+    input.value = ""
 }
 
 function convert(number, unit1, unit2, conversionMultiplier) {
