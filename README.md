@@ -11,7 +11,7 @@ I built this project after the third (and last) module of Learn JavaScript for f
 - Converse after pressing the enter key
 - Clear the input field after the conversion
 
-### How it looks like:
+### What it looks like:
 | Before Conversion | After Conversion |
 | --- | --- |
 | <p align="middle"> <img width="100%" alt="unit converter empty input" src="https://user-images.githubusercontent.com/115597522/195952147-575ad420-2930-4602-94c9-709dab0e6953.png"> </p>| <p align="middle"> <img width="100%" alt="unit converter after conversion" src="https://user-images.githubusercontent.com/115597522/195954349-48f07363-6106-4b6b-8672-3f0f086bbbdd.png">
